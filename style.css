@@ -150,19 +150,20 @@ text-align:center;
 
 /* カード */
 .cards{
-display:grid;
-grid-template-columns:repeat(2,1fr);
-gap:20px;
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:20px;
 }
 
 .card{
-width:200px;
-background:rgba(255,255,255,0.1);
-padding:20px;
-border-radius:12px;
-position:relative;
-cursor:pointer;
-margin:10px;
+  width:100%;
+  box-sizing:border-box;
+
+  background:rgba(255,255,255,0.1);
+  padding:20px;
+  border-radius:12px;
+  cursor:pointer;
+  margin:0;
 }
 
 .title{
