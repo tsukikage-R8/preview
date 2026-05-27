@@ -944,3 +944,14 @@ background:#6ce5ff;
   font-size:0.9rem;
   opacity:0.92;
 }
+
+
+
+.card-image {
+  width: 100%;
+  height: 140px;      /* 好きな高さに変えてOK */
+  object-fit: cover;  /* はみ出た部分をトリミングして綺麗に */
+  border-radius: 12px 12px 0 0; /* 上だけ丸く */
+  display: block;
+  margin-bottom: 10px;
+}
