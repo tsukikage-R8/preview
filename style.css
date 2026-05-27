@@ -948,9 +948,11 @@ background:#6ce5ff;
 
 
 .popup-image{
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 12px;
-  margin-bottom: 14px;
+  display:none;
+
+  width:100%;
+  height:180px;
+  object-fit:cover;
+  border-radius:12px;
+  margin-bottom:14px;
 }
