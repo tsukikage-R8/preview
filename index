@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>月影祭2026</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+<!-- ローディング -->
+<div id="loading">
+<video id="introVideo" autoplay muted playsinline>
+
+<source src="https://www.image2url.com/r2/default/videos/1776771959037-d68b8fdf-0754-44ec-8d35-d4472ca33093.mp4" media="(max-aspect-ratio: 16/9)">
+<source src="https://www.image2url.com/r2/default/videos/1776772732955-496ea1a3-0eb0-4503-918a-63db47937027.mp4" media="(min-aspect-ratio: 16/9)">
+
+</video>
+</div>
+
+<!-- ハンバーガー -->
+<div class="menuBtn" id="menuBtn">☰</div>
+
+<!-- モバイルメニュー -->
+<div class="mobileMenu" id="mobileMenu">
+
+<a href="#top">
+<span class="en">Top</span>
+<span class="jp">トップ</span>
+</a>
+
+<a href="#projects">
+<span class="en">Class Planning</span>
+<span class="jp">企画一覧</span>
+</a>
+
+<a href="#map">
+<span class="en">School Map</span>
+<span class="jp">校内マップ</span>
+</a>
+
+<a href="#time">
+<span class="en">Entertainment Schedule</span>
+<span class="jp">タイムスケジュール</span>
+</a>
+
+<a href="#menu">
+<span class="en">Special Menu Items</span>
+<span class="jp">フード＆ドリンク</span>
+</a>
+
+<a href="#web">
+<span class="en">More Fun!</span>
+<span class="jp">月影祭を楽しもう！</span>
+</a>
+
+<a href="#vote">
+<span class="en">Let's vote!</span>
+<span class="jp">好きな企画に投票しよう！</span>
+</a>
+
+<a href="#access">
+<span class="en">How to Go</span>
+<span class="jp">アクセス</span>
+</a>
+
+</div>
+
+<!-- PC目次 -->
+<div class="sidebar">
+
+<a href="#top">
+<span class="en">Top</span>
+<span class="jp">トップ</span>
+</a>
+
+<a href="#projects">
+<span class="en">Class Planning</span>
+<span class="jp">企画一覧</span>
+</a>
+
+<a href="#map">
+<span class="en">School Map</span>
+<span class="jp">校内マップ</span>
+</a>
+
+<a href="#time">
+<span class="en">Entertainment Schedule</span>
+<span class="jp">タイムスケジュール</span>
+</a>
+
+<a href="#menu">
+<span class="en">Special Menu Items</span>
+<span class="jp">フード＆ドリンク</span>
+</a>
+  
+<a href="#web">
+<span class="en">More Fun!</span>
+<span class="jp">月影祭を楽しもう！</span>
+</a>
+
+
+
+
+<a href="#vote">
+<span class="en">Let's vote!</span>
+<span class="jp">好きな企画に投票しよう！</span>
+</a>
+
+<a href="#access">
+<span class="en">How to Go</span>
+<span class="jp">アクセス</span>
+</a>
+
+</div>
+
+<div class="wrapper">
+
+<!-- ヘッダー -->
+<header class="header">
+<img 
+src="https://i.imgur.com/Rvnl1Je.jpeg"
+class="headerImg">
+</header>
+
+<!-- 概要 -->
+<!-- 概要 -->
+<section class="about reveal">
+
+<div class="date revealText">
+<span>6</span><span>/</span><span>6</span>
+<span class="time">9:00〜</span>
+</div>
+
+<p class="revealText">
+<span>今</span><span>年</span><span>の</span><span>月</span><span>影</span><span>祭</span><span>の</span><span>テ</span><span>ー</span><span>マ</span><span>は</span><span>「</span><span>星</span><span>彩</span><span>の</span><span>青</span><span>春</span><span>」</span>
+</p>
+<br>
+
+<p class="revealText">
+<span>月</span><span>と</span><span>星</span><span>が</span><span>輝</span><span>き</span><span>夜</span><span>空</span><span>を</span><span>彩</span><span>る</span><span>時</span><span>、</span>
+</p>
+
+<p class="revealText">
+<span>こ</span><span>の</span><span>樹</span><span>徳</span><span>高</span><span>校</span><span>で</span><span>生</span><span>徒</span><span>一</span><span>人</span><span>ひ</span><span>と</span><span>り</span><span>の</span>
+</p>  
+
+<p class="revealText">
+<span>最</span><span>高</span><span>の</span><span>青</span><span>春</span><span>の</span><span>光</span><span>が</span><span>輝</span><span>き</span><span>ま</span><span>す</span><span>。</span>
+</p>
+
+<p class="revealText">
+<span>月</span><span>影</span><span>祭</span><span>の</span><span>様</span><span>々</span><span>な</span><span>プ</span><span>ロ</span><span>グ</span><span>ラ</span><span>ム</span><span>で</span>
+</p>
+  
+<p class="revealText">
+<span>心</span><span>き</span><span>ら</span><span>め</span><span>く</span><span>ひ</span><span>と</span><span>と</span><span>き</span><span>を</span><span>お</span><span>過</span><span>ご</span><span>し</span><span>く</span><span>だ</span><span>さ</span><span>い</span><span>。</span>
+</p>
+
+</section>
+
+<!-- 新着 -->
+<section id="news">
+  <h2 class="sectionTitle">
+    <span class="en">news</span>
+  </h2>
+
+  <div class="news">5/13 サイトを公開しました</div>
+</section>
+
+
+<!-- WEATHER -->
+<section id="weather">
+  <div id="weather-desc" class="weather-desc">
+    Loading...
+  </div>
+
+  <div id="weather-message" class="weather-message"></div>
+
+  <!-- 3日予報 -->
+  <div class="forecast-wrap">
+
+    <div class="forecast-item">
+      <div id="day1-name" class="forecast-day">--</div>
+      <div id="day1-icon" class="forecast-icon">☀️</div>
+      <div id="day1-temp" class="forecast-temp">--℃ / --℃</div>
+    </div>
+
+    <div class="forecast-item">
+      <div id="day2-name" class="forecast-day">--</div>
+      <div id="day2-icon" class="forecast-icon">☀️</div>
+      <div id="day2-temp" class="forecast-temp">--℃ / --℃</div>
+    </div>
+
+    <div class="forecast-item">
+      <div id="day3-name" class="forecast-day">--</div>
+      <div id="day3-icon" class="forecast-icon">☀️</div>
+      <div id="day3-temp" class="forecast-temp">--℃ / --℃</div>
+    </div>
+
+  </div>
+</section>
+<!-- 企画 -->
+<section id="projects">
+
+<h2 class="sectionTitle">
+<span class="en">Class Planning</span>
+<span class="jp">企画一覧</span>
+</h2>
+
+<div class="projectTools">
+
+<div class="filterBtn" onclick="toggleFilter()">
+絞り込み ▾
+</div>
+
+<div class="searchBtn" onclick="toggleSearch()">
+🔍
+</div>
+
+</div>
+
+<!-- 絞り込み -->
+<div class="filterBox" id="filterBox">
+<button onclick="filterProjects('2')">2年</button>
+<button onclick="filterProjects('3')">3年</button>
+<button onclick="filterProjects('club')">部活動</button>
+<button onclick="filterProjects('all')">すべて</button>
+</div>
+
+<!-- 検索 -->
+<div class="searchBox" id="searchBox">
+<input 
+type="text" 
+placeholder="企画名,クラス名で検索"
+onkeyup="searchProjects(this.value)"
+>
+</div>
+
+<div class="cards">
+
+<div class="card"
+data-grade="2"
+data-title="Coming soon"
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2J1</div>
+
+</div>
+
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2J2</div>
+</div>
+
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2J3</div>
+</div>
+
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2J4</div>
+</div>
+  
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2J5</div>
+</div>
+  
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2S</div>
+</div>
+  
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2K</div>
+</div>
+  
+<div class="card"
+data-grade="2"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">2SS</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3J1</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3J2</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3J3</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3J4</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3J5</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3S1</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3S2</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3K</div>
+</div>
+  
+<div class="card"
+data-grade="3"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">3SS</div>
+</div>
+  
+<div class="card"
+data-grade="club"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">理科部</div>
+</div>
+  
+<div class="card"
+data-grade="club"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">家庭科部</div>
+</div>
+  
+<div class="card"
+data-grade="club"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">茶道部</div>
+</div>
+  
+<div class="card"
+data-grade="club"
+data-title="Coming soon""
+data-text="準備中"
+data-place="準備中"
+data-time="準備中">
+
+<div class="title">coming soon</div>
+<div class="class">英会話部</div>
+</div>
+
+  
+</div>
+
+</section>
+
+<!-- マップ -->
+<section id="map">
+<h2 class="sectionTitle">
+<span class="en">School Map</span>
+<span class="jp">校内マップ</span>
+</h2>
+
+<p>
+Coming Soon
+</p>
+
+<!-- タイム -->
+<section id="time">
+<h2 class="sectionTitle">
+<span class="en">Entertainment Schedule</span>
+<span class="jp">タイムスケジュール</span>
+</h2>
+<p>
+Coming Soon
+</p>
+
+</section>
+
+<!-- menu -->
+<section id="menu">
+
+<h2 class="sectionTitle">
+<span class="en">Special Menu Items</span>
+<span class="jp">フード＆ドリンク</span>
+</h2>
+
+<p>
+Coming Soon
+</p>
+
+</section>
+  
+<!-- web -->
+<section id="web">
+
+<h2 class="sectionTitle">
+<span class="en">More Fun!</span>
+<span class="jp">月影祭をより楽しもう！</span>
+</h2>
+
+<div class="carouselWrap">
+
+<button class="arrow left" onclick="moveSlide(-1)">
+❮
+</button>
+
+<div class="carousel">
+
+<div class="slides" id="slides">
+
+<div class="webCard active">
+<img src="https://i.imgur.com/NV8ubvO.png" class="mapImg">
+
+<h3>校内スタンプラリー</h3>
+
+<p>スタンプを全部集めるといいことがあるかも？</p>
+</div>
+
+<div class="webCard">
+<img src="https://i.imgur.com/NV8ubvO.png" class="mapImg">
+
+<h3>月影祭チケット風ジェネレーター</h3>
+
+<p>友達を月影祭に招待しよう！！</p>
+</div>
+
+<div class="webCard">
+<img src="https://i.imgur.com/NV8ubvO.png" class="mapImg">
+
+<h3>Coming Soon</h3>
+
+<p>公開までお待ちください。</p>
+</div>
+
+</div>
+
+</div>
+
+<button class="arrow right" onclick="moveSlide(1)">
+❯
+</button>
+
+</div>
+
+<!-- pagination -->
+<ul class="pagination">
+
+<li><button class="paginationButton isActive"></button></li>
+<li><button class="paginationButton"></button></li>
+<li><button class="paginationButton"></button></li>
+
+</ul>
+
+</section>
+
+
+<!-- vote -->
+<section id="vote">
+
+  <h2 class="sectionTitle">
+ <span class="en">Let's vote! </span>
+<span class="jp">好きな企画に投票しよう！</span>
+  </h2>
+
+  <div class="webCard">
+
+    <p>月影祭の人気企画を決めるアンケートに参加できます。</p>
+
+    <a href="survey.html" class="voteBtn">
+      投票ページへ
+    </a>
+
+  </div>
+
+</section>
+
+<!-- アクセス -->
+<section id="access">
+<h2 class="sectionTitle">
+<span class="en">How to Go </span>
+<span class="jp">アクセス</span>
+</h2>
+
+<p>住所：〒376-0023 群馬県桐生市錦町１丁目１−２０</p>
+
+<button class="mapBtn" onclick="openMap()">
+マップで開く
+</button>
+
+</section>
+
+<footer class="footer">
+
+<a href="https://www.jutoku.ed.jp/high/"
+   class="officialBtn"
+   target="_blank"
+   rel="noopener noreferrer">
+樹徳高校公式サイト
+</a>
+
+<div class="snsText">
+樹徳高校の公式SNSをフォロー！
+</div>
+
+<div class="snsIcons">
+
+<a href="https://www.instagram.com/jutoku_official" class="snsIcon insta" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+</a>
+
+<a href="https://www.youtube.com/@jutoku-hs" class="snsIcon youtube" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png">
+</a>
+
+</div>
+
+<div class="copy">
+樹徳高校
+</div>
+  
+<div class="copy">
+©R8月影祭実行委員会
+</div>
+
+</footer>
+
+</div>
+
+<!-- 上へ -->
+<div class="topBtn" id="topBtn">▲</div>
+
+<!-- ポップアップ -->
+<div class="popup" id="popup">
+
+<div class="popupClose" onclick="closePopup()">×</div>
+
+<h3 id="popupTitle"></h3>
+
+<div class="popupBody">
+
+<p id="popupText"></p>
+
+<div class="popupInfo">
+<div id="popupPlace"></div>
+<div id="popupTime"></div>
+</div>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+
+<script>
+
+const apiKey = "049bf8516c798727ed19fd10fc452840";
+
+/* 学校の座標 */
+const lat = "35.407736600000014";
+const lon = "139.33380341349195";
+
+async function loadWeather(){
+
+  const url =
+    `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric&lang=ja`;
+
+  const res = await fetch(url);
+  const data = await res.json();
+
+  const temp =
+    Math.round(data.main.temp);
+
+  const weather =
+    data.weather[0].main;
+
+  const desc =
+    data.weather[0].description;
+
+  /* 表示 */
+
+  document.getElementById(
+    "weather-temp"
+  ).textContent = `${temp}℃`;
+
+  document.getElementById(
+    "weather-desc"
+  ).textContent = desc;
+
+  /* 更新時間 */
+
+  const now = new Date();
+
+  document.getElementById(
+    "weather-update"
+  ).textContent =
+    `updated ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+
+  /* アイコン */
+
+  let icon = "☀️";
+
+  if(weather === "Clouds"){
+    icon = "☁️";
+  }
+
+  if(weather === "Rain"){
+    icon = "🌧️";
+  }
+
+  if(weather === "Thunderstorm"){
+    icon = "⛈️";
+  }
+
+  document.getElementById(
+    "weather-icon"
+  ).textContent = icon;
+
+  /* 背景変更 */
+
+  const card =
+    document.getElementById(
+      "weather-card"
+    );
+
+  card.classList.remove(
+    "weather-clear",
+    "weather-clouds",
+    "weather-rain",
+    "weather-thunderstorm"
+  );
+
+  if(weather === "Clear"){
+    card.classList.add(
+      "weather-clear"
+    );
+  }
+
+  else if(weather === "Clouds"){
+    card.classList.add(
+      "weather-clouds"
+    );
+  }
+
+  else if(weather === "Rain"){
+    card.classList.add(
+      "weather-rain"
+    );
+  }
+
+  else if(weather === "Thunderstorm"){
+    card.classList.add(
+      "weather-thunderstorm"
+    );
+  }
+
+  /* メッセージ */
+
+  let message = "";
+
+  if(temp >= 30){
+    message =
+      "熱中症に注意してください";
+  }
+
+  else if(temp >= 25){
+    message =
+      "水分補給を忘れずに！";
+  }
+
+  else if(weather === "Rain"){
+    message =
+      "足元にご注意ください";
+  }
+
+  else{
+    message =
+      "月影祭日和！";
+  }
+
+  document.getElementById(
+    "weather-message"
+  ).textContent = message;
+}
+
+loadWeather();
+
+</script>
+
+</body>
+</html>
