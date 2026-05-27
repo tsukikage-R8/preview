@@ -70,6 +70,14 @@ function openPopup(card){
 
 popup.style.display="block"
 
+
+const popupImage =
+    document.getElementById("popupImage")
+popupImage.src = card.dataset.image || ""
+popupImage.style.display =
+card.dataset.image ? "block" : "none"
+
+
 document.getElementById("popupTitle").innerText =
 card.dataset.title || ""
 
